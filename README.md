@@ -1,6 +1,7 @@
 # Ubuntu-GUI-WSL2
 
 Prepared ubuntu with gui (kde)
+
 Recommended kernel: https://github.com/Peredery/custom-kernel-wsl2
 
 # My workflow
