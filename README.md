@@ -2,7 +2,7 @@
 
 Prepared ubuntu with gui (kde)
 
-Recommended kernel: https://github.com/Peredery/custom-kernel-wsl2
+Recommended kernel: https://github.com/Peredery/custom-kernel-wsl2 (Linux 5.8 wsl2 kernel)
 
 # My workflow
 I'm using it for JetBrains tool (Web-development)
