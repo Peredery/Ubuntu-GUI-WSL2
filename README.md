@@ -8,6 +8,8 @@ Recommended kernel: https://github.com/Peredery/custom-kernel-wsl2 (Linux 5.8 ws
 I'm using it for JetBrains tool (Web-development)
 ![Ubuntu+windows](https://raw.githubusercontent.com/Peredery/Ubuntu-GUI-WSL2/main/screen.png)
 
+![Ubuntu+windows](https://raw.githubusercontent.com/Peredery/Ubuntu-GUI-WSL2/main/screen2.png)
+
 # How to install
 
 ``Now, only for my personal usage, I'll update it later for public guide``
