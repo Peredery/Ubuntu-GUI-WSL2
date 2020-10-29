@@ -1,2 +1,13 @@
 # Ubuntu-GUI-WSL2
-My custom Ubuntu.img with working GUI for Jetbrains tools
+Prepared ubuntu with gui (kde)
+
+# How to install
+
+1. extract archive to C:\wsl2
+2. run ``install.bat``
+3. to start ubuntu-gui run ``ubuntu-gui.bat``
+
+# My workflow
+I'm using it for JetBrains tool (Web-development)
+
+
