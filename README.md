@@ -9,5 +9,5 @@ Prepared ubuntu with gui (kde)
 
 # My workflow
 I'm using it for JetBrains tool (Web-development)
-
+![Ubuntu+windows](https://raw.githubusercontent.com/Peredery/Ubuntu-GUI-WSL2/main/screen.png)
 
